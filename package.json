@@ -39,6 +39,7 @@
   "homepage": "https://github.com/muyids/leetcode#readme",
   "dependencies": {
     "chrome-cookies-secure": "^1.2.0",
+    "gitbook-cli": "^2.3.2",
     "gm": "^1.23.1"
   },
   "devDependencies": {
